@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://lokeshburade007.github.io](https://lokeshburade007.github.io)
 
-- 💬 Ask me about **React, NextJS, MySql and**
+- 💬 Ask me about **React, NextJS, MySql and GraphQL**
 
 - 📫 How to reach me **lokeshburade007@gmail.com**
 
