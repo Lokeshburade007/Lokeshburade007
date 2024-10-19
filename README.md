@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Lokesh Burade</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Passionate MERN Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokeshburade007&label=Profile%20views&color=0e75b6&style=flat" alt="lokeshburade007" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lokeshburade007" alt="lokeshburade007" /></a> </p>
 
-- 🔭 I’m currently working on [LeaderBoard Flutter App](https://github.com/Lokeshburade007/LeaderBoard.git)
+- 🔭 I’m currently working on [GoSwiftsy.com]
 
 - 🌱 I’m currently learning **Flutter, Firebase**
 
 - 👯 I’m looking to collaborate on [Missing People Identification System](https://github.com/lalitkondekar/Missing-people-identification.git)
 
-- 🤝 I’m looking for help with [WorkIt React App](https://github.com/lalitkondekar/WorkIT.git)
+- 🤝 I’m looking for help with [Backend NextJs & MongoDB App]
 
 - 👨‍💻 All of my projects are available at [https://lokeshburade007.github.io](https://lokeshburade007.github.io)
 
