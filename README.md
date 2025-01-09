@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lokeshburade007" alt="lokeshburade007" /></a> </p>
 
-- 🔭 I’m currently working on [Goswiftsy.com](https://goswiftsy.com/)
+- 🔭 I’m currently working on [Open Source Project]()
 
 - 🌱 I’m currently learning **Flutter, Firebase**
 
-- 👯 I’m looking to collaborate on [Missing People Identification System](https://github.com/lalitkondekar/Missing-people-identification.git)
+- 👯 I’m looking to collaborate on [India's Fastest Checkin System]
 
 - 🤝 I’m looking for help with [Backend NextJs & MongoDB App]
 
