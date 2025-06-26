@@ -7,9 +7,7 @@
 
 - 🔭 I’m currently working on [Hive Flutter Kit](https://hiveflutterkit.sagarkothari88.one/)
 
-- 🌱 I’m currently learning **Flutter, Firebase and React native**
-
-- 👯 I’m looking to collaborate on [India's Fastest Checkin System]
+- 🌱 I’m currently learning **SwiftUI, NodeJs and Advanced Flutter**
 
 - 🤝 I’m looking for help with [Backend NextJs & MongoDB App]
 
